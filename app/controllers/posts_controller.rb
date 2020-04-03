@@ -3,4 +3,7 @@ class PostsController < ApplicationController
     @posts = Post.all
   end
   
+  def 
+    
+  end
 end
